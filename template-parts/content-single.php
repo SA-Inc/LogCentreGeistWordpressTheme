@@ -64,5 +64,27 @@ $geist_category_url = get_category_link( $geist_categories[0]->term_id );
 <!-- Links to Previous/Next posts -->
 <?php get_template_part('template-parts/post-nav'); ?>
 
+<!-- Logo Block -->
+<div class="project-logos-block">
+    <p>Project management</p>
+    <section class="project-logos-row">
+        <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/dku_logo.png?raw=true" alt="">
+        <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/ilm_logo.jpg?raw=true" alt="">
+    </section>
+
+    <p>In cooperation with</p>
+    <section class="project-logos-row">
+        <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/ovgu_logo.png?raw=true" alt="">
+        <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/wildau_logo.jpg?raw=true" alt="">
+        <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/bmbf_logo.png?raw=true" alt="">
+    </section>
+
+    <p>With financial support</p>
+    <section class="project-logos-row">
+        <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/daad_logo.png?raw=true" alt="">
+        <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/aus_amt_logo.png?raw=true" alt="">
+    </section>
+</div>
+
 <!-- Floating header which appears on-scroll -->
 <?php get_template_part('template-parts/floating-header'); ?>

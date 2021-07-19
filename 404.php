@@ -122,6 +122,28 @@ $geist_author_url = get_author_posts_url( get_the_author_meta( 'ID' ), get_the_a
             </div>
         </aside>
 
+        <!-- Logo Block -->
+        <div class="project-logos-block">
+            <p>Project management</p>
+            <section class="project-logos-row">
+                <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/dku_logo.png?raw=true" alt="">
+                <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/ilm_logo.jpg?raw=true" alt="">
+            </section>
+
+            <p>In cooperation with</p>
+            <section class="project-logos-row">
+                <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/ovgu_logo.png?raw=true" alt="">
+                <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/wildau_logo.jpg?raw=true" alt="">
+                <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/bmbf_logo.png?raw=true" alt="">
+            </section>
+
+            <p>With financial support</p>
+            <section class="project-logos-row">
+                <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/daad_logo.png?raw=true" alt="">
+                <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/aus_amt_logo.png?raw=true" alt="">
+            </section>
+        </div>
+
     </div>
 <?php
 get_footer();

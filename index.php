@@ -89,6 +89,7 @@ $geist_blog_description = get_bloginfo( 'description' );
     </div>
 </main>
 
+<!-- Logo Block -->
 <div class="project-logos-block">
     <p>Project management</p>
     <section class="project-logos-row">
