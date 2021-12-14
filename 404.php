@@ -128,6 +128,7 @@ $geist_author_url = get_author_posts_url( get_the_author_meta( 'ID' ), get_the_a
             <section class="project-logos-row">
                 <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/dku_logo.png?raw=true" alt="">
                 <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/ilm_logo.jpg?raw=true" alt="">
+		<img src="https://i.ibb.co/ZVj9FcQ/logo-log-centre50.jpg" alt="">
             </section>
 
             <p>In cooperation with</p>
