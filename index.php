@@ -95,6 +95,7 @@ $geist_blog_description = get_bloginfo( 'description' );
     <section class="project-logos-row">
         <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/dku_logo.png?raw=true" alt="">
         <img src="https://github.com/SA-Inc/LogCentreAssets/blob/main/logo/ilm_logo.jpg?raw=true" alt="">
+        <img src="https://i.ibb.co/ZVj9FcQ/logo-log-centre50.jpg" alt="">
     </section>
 
     <p>In cooperation with</p>
